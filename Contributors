@@ -1,0 +1,20 @@
+Contributors
+Hassan Ali
+
+Contributions:
+Home Page
+Courses Page
+Login Page
+Signup Page
+Kashmala
+
+Contributions:
+Contact Us Page
+Privacy Page
+File Structure
+/home: Contains files related to the home page.
+/courses: Includes files pertaining to the courses page.
+/login: Consists of files for the login functionality.
+/signup: Contains files for the user signup process.
+/contact: Includes files for the contact us page.
+/privacy: Consists of files related to the privacy policy page.
