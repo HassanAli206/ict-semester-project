@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 document.addEventListener('DOMContentLoaded', function () {
-    const loginForm = document.querySelector('form');
+    const loginForm = document.querySelector('login-form');
 
     loginForm.addEventListener('submit', function (event) {
         event.preventDefault(); 
